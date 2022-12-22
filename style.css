@@ -1,0 +1,18 @@
+table {
+    text-align: center;
+}
+
+.blue {
+    background-color: #0099ff;
+    color: white;
+}
+
+.active {
+    background-color: #00ff88;
+    color: white;
+}
+
+.head {
+    padding-left: 20px;
+    box-shadow: none;
+}
